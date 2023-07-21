@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-intro",
+      "appliesTo": "Mvc/Views/Home/intro.cshtml",
+      "type": "launch"
+    }
+  ]
+}
