@@ -17,6 +17,10 @@ namespace Mvc.Controllers
         {
             return View();
         }
+        public IActionResult Intro()
+        {
+            return View();
+        }
 
         public IActionResult Privacy()
         {
